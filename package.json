@@ -1,0 +1,18 @@
+{
+  "name": "content-unocss-template",
+  "private": "true",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Elone Hoo <huchengyea@163.com>",
+  "description": "",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "content-unocss": "^0.0.1",
+    "nuxt": "^3.0.0-rc.12"
+  }
+}
