@@ -12,7 +12,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "content-unocss": "^0.0.1",
-    "nuxt": "^3.0.0"
+    "content-unocss": "^0.0.5",
+    "nuxt": "^3.3.3"
   }
 }
